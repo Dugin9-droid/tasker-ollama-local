@@ -26,5 +26,5 @@ Run in Termux:
 
 ```bash
 pkg update -y && pkg upgrade -y
-pkg install ollama termux-api nano -y
+pkg install ollama termux-api nano python -y
 mkdir -p ~/.termux/tasker
